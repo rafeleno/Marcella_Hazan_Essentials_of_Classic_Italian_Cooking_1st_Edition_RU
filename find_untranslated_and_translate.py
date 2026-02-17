@@ -144,7 +144,7 @@ def process_files():
                  uid = f"{filepath}::{i}"
                  current_batch[uid] = str(tag)
                  
-                 if len(current_batch) >= 30: # Безопасный батч (30 элементов)
+                 if len(current_batch) >= 20: # Безопасный батч (20 элементов)
                      batch_counter += 1
                      print(f"\n🚀 Перевод батча #{batch_counter} ({len(current_batch)} элементов)...")
                      trans = translate_batch(current_batch, batch_index=batch_counter)

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx version="2005-1" xml:lang="en-US" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+<head>
+<meta content="978-0-307-95830-3" name="dtb:uid"/>
+<meta content="2" name="dtb:depth"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle><text>Essentials of Classic Italian Cooking</text></docTitle>
+<docAuthor><text>Marcella Hazan</text></docAuthor>
+<navMap>
+<navPoint class="cover" id="cvi" playOrder="1">
+<navLabel><text>Cover</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_cvi_r1.htm"/>
+</navPoint>
+<navPoint class="titlepage" id="tp" playOrder="2">
+<navLabel><text>Титульная страница</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_tp_r1.htm"/>
+</navPoint>
+<navPoint class="copyright" id="cop" playOrder="3">
+<navLabel><text>Авторские права</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_cop_r1.htm"/>
+</navPoint>
+<navPoint class="other" id="adc" playOrder="4">
+<navLabel><text>Другие книги автора</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_adc_r1.htm"/>
+</navPoint>
+<navPoint class="other" id="ded" playOrder="5">
+<navLabel><text>Посвящение</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_ded_r1.htm"/>
+</navPoint>
+<navPoint class="other" id="toc" playOrder="6">
+<navLabel><text>Contents</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_toc_r1.htm"/>
+</navPoint>
+<navPoint class="other" id="prf" playOrder="7">
+<navLabel><text>Предисловие</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_prf_r1.htm"/>
+</navPoint>
+<navPoint class="other" id="itr" playOrder="8">
+<navLabel><text>Введение</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_itr_r1.htm"/>
+</navPoint>
+<navPoint class="chapter" id="c01" playOrder="9">
+<navLabel><text>Основы</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_c01_r1.htm"/>
+</navPoint>
+<navPoint class="chapter" id="c02" playOrder="10">
+<navLabel><text>Закуски</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_c02_r1.htm"/>
+</navPoint>
+<navPoint class="chapter" id="c03" playOrder="11">
+<navLabel><text>Супы</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_c03_r1.htm"/>
+</navPoint>
+<navPoint class="chapter" id="c04" playOrder="12">
+<navLabel><text>Паста</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_c04_r1.htm"/>
+</navPoint>
+<navPoint class="chapter" id="c05" playOrder="13">
+<navLabel><text>Ризотто</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_c05_r1.htm"/>
+</navPoint>
+<navPoint class="chapter" id="c06" playOrder="14">
+<navLabel><text>Гнокки</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_c06_r1.htm"/>
+</navPoint>
+<navPoint class="chapter" id="c07" playOrder="15">
+<navLabel><text>Креспелле</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_c07_r1.htm"/>
+</navPoint>
+<navPoint class="chapter" id="c08" playOrder="16">
+<navLabel><text>Полента</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_c08_r1.htm"/>
+</navPoint>
+<navPoint class="chapter" id="c09" playOrder="17">
+<navLabel><text>Фриттата</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_c09_r1.htm"/>
+</navPoint>
+<navPoint class="chapter" id="c10" playOrder="18">
+<navLabel><text>Рыба и морепродукты</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_c10_r1.htm"/>
+</navPoint>
+<navPoint class="chapter" id="c11" playOrder="19">
+<navLabel><text>Курица, голубь, утка и кролик</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_c11_r1.htm"/>
+</navPoint>
+<navPoint class="chapter" id="c12" playOrder="20">
+<navLabel><text>Телятина</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_c12_r1.htm"/>
+</navPoint>
+<navPoint class="chapter" id="c13" playOrder="21">
+<navLabel><text>Говядина</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_c13_r1.htm"/>
+</navPoint>
+<navPoint class="chapter" id="c14" playOrder="22">
+<navLabel><text>Баранина</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_c14_r1.htm"/>
+</navPoint>
+<navPoint class="chapter" id="c15" playOrder="23">
+<navLabel><text>Свинина</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_c15_r1.htm"/>
+</navPoint>
+<navPoint class="chapter" id="c16" playOrder="24">
+<navLabel><text>Субпродукты</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_c16_r1.htm"/>
+</navPoint>
+<navPoint class="chapter" id="c17" playOrder="25">
+<navLabel><text>Овощи</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_c17_r1.htm"/>
+</navPoint>
+<navPoint class="chapter" id="c18" playOrder="26">
+<navLabel><text>Салаты</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_c18_r1.htm"/>
+</navPoint>
+<navPoint class="chapter" id="c19" playOrder="27">
+<navLabel><text>Десерты</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_c19_r1.htm"/>
+</navPoint>
+<navPoint class="chapter" id="c20" playOrder="28">
+<navLabel><text>Фокачча, пицца, хлеб и другое особое тесто</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_c20_r1.htm"/>
+</navPoint>
+<navPoint class="chapter" id="c21" playOrder="29">
+<navLabel><text>За столом</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_c21_r1.htm"/>
+</navPoint>
+<navPoint class="other" id="ind" playOrder="30">
+<navLabel><text>Указатель</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_ind_r1.htm"/>
+</navPoint>
+<navPoint class="other" id="bm1" playOrder="31">
+<navLabel><text>Об авторе</text></navLabel>
+<content src="OEBPS/Haza_9780307958303_epub_bm1_r1.htm"/>
+</navPoint>
+</navMap>
+</ncx>
